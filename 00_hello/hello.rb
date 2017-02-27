@@ -1,4 +1,8 @@
 #write your code here
 def hello()
-   return hello 
+    'Hello!'
+end
+
+def greet(name)
+    'Hello, ' + name + '!'
 end

@@ -28,5 +28,5 @@ def titleize(line)
         end
     end
     words.first.capitalize!
-    words.join(" ")
+    words.join(' ')
 end
